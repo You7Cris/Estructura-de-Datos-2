@@ -655,7 +655,7 @@ void seis_tres()
     printf("\t Mostrar Informacion\n");
     for(i=0;i<n;i++)
     {
-        printf("\Estudiante %i\n",i+1);
+        printf("Estudiante %i\n",i+1);
         printf("Nombre: %s\n",Estudents[i].nombre);
         printf("Edad: %i\n",Estudents[i].edad);
         printf("\t Notas\n");
